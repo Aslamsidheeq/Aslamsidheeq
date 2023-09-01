@@ -10,7 +10,7 @@
 
 
 Location : Kerala, India </br>
-Email : aslambinsidhik@gmail.com
+Email : aslambinsidhik@gmail.com </br>
 Linkedin - www.linkedin.com/in/aslam-sidheeq
 
 
