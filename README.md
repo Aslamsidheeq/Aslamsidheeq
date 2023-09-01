@@ -9,9 +9,9 @@
 
 
 
-- 📌From Kerala, India </br>
-- 📫 How to reach me : aslambinsidhik@gmail.com
-- Linkedin - www.linkedin.com/in/aslam-sidheeq
+Location : Kerala, India </br>
+Email : aslambinsidhik@gmail.com
+Linkedin - www.linkedin.com/in/aslam-sidheeq
 
 
 
