@@ -1,5 +1,5 @@
 <h2>👋 Hi, I’m  Aslam sidheeq </h2>
-<h3>Aspiring MERN stack developer </h3>
+<h3>ASP.NET Core Full-Stack developer </h3>
 <div display="flex">
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://skillicons.dev/icons?i=express"/>
