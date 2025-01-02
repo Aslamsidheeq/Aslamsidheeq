@@ -1,8 +1,8 @@
 <h2>👋 Hi, I’m  Aslam sidheeq </h2>
 <h3>ASP.NET Core Full-Stack developer </h3>
 <!-- <div display="flex">
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=cs"/>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 </div> -->
