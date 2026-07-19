@@ -1,5 +1,7 @@
 <h2>👋 Hi, I’m  Aslam sidheeq </h2>
-<h3>ASP.NET Core Full-Stack developer </h3>
+<h3>Full Stack .NET Developer with 2 years of experience designing and optimizing ASP.NET Core backends, Including API
+performance tuning that cut response latency. Strong background in microservices architecture, ERP platforms and
+docker based deployments, with Angular frontend.</h3>
 <!-- <div display="flex">
 <img src="https://skillicons.dev/icons?i=cs"/>
 <img src="https://skillicons.dev/icons?i=dotnet"/>
